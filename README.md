@@ -39,6 +39,8 @@ Indicates the time left for the next Arsenal match.
 !wengyboi [#]
 Make a wengyboi of # length! Max 10.
 ```
+## Instructions to set up the bot
+Follow the steps mentioned below to set up the bot to work on your Discord server. Alternatively, you can also refer to [this link](https://realpython.com/how-to-make-a-discord-bot-python/) by RealPython for more general setup instructions. 
 
 ### Suggestions
 
