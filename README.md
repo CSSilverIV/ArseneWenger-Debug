@@ -36,7 +36,7 @@ Display the last 3 results for Arsenal matches.
 !next
 Indicates the time left for the next Arsenal match.
 
-!wengyboi <#>
+!wengyboi [#]
 Make a wengyboi of # length! Max 10.
 ```
 
